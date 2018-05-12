@@ -1,0 +1,35 @@
+_repo: Ottavia_38012
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Bruscoli, Nicola
+    gutenberg_agent_id: '39194'
+    url: http://www.gutenberg.org/2009/agents/39194
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alfieri, Vittorio
+    birthdate: 1749
+    deathdate: 1803
+    gutenberg_agent_id: '24785'
+    url: http://www.gutenberg.org/2009/agents/24785
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Vittorio_Alfieri
+    - http://pt.wikipedia.org/wiki/Vittorio_alfieri
+description: ''
+gutenberg_bookshelf: IT Teatro in versi
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38012'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Tragedies'
+title: Ottavia
+url: http://www.gutenberg.org/ebooks/38012
